@@ -20,13 +20,13 @@
    
    4. update the .bashrc file
    
-   > _source ~/.bashrc
+   > _source ~/.bashrc_
    
    5. Check the ROSMASTER_URI and ROS_IP
     
    > _echo $ROS_MASTER_URI_
    
-   >_ echo $ROS_IP_
+   > _echo $ROS_IP_
    
    ---
    
