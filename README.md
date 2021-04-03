@@ -8,15 +8,15 @@
    > _sudo vi /etc/hosts_
    
    2. In the hosts file add the clinet IP address.
-   > _192.168.1.174_ #clinet jetson board or intel nuc board IP address.
+   > _192.168.1.1_ #clinet jetson board or intel nuc board IP address.
    
    3. Go to .bashrc and add the clinet ROS and host IP.
    
    > _vi ~/.bashrc_
    
-   > _export ROS_MASTER_URI=http://192.168.1.174:11311/_
+   > _export ROS_MASTER_URI=http://192.168.1.1:11311/_
    
-   > export ROS_IP=192.168.1.208
+   > export ROS_IP=192.168.1.2
    
    4. update the .bashrc file
    
