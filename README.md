@@ -30,4 +30,4 @@
    
    ---
    
-   ### Now it enjoy it ;)
+   ### Now it's ready, enjoy it ;)
